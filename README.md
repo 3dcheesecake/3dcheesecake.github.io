@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <style>
+      p {
+        color:black;
+      }
+    </style>
     <h1>Hi!</h1>
     <h2>I'm 3dcheesecake!</h2>
     <body>
-      <style>
-        body {
-          background-color:black;
-        }
-      </style>
       <p>I like coding, playing video games, and drawing :P</p>
     </body>
     <div>
