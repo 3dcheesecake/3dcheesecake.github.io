@@ -1,27 +1,25 @@
 body {
-    background-color:gray;
+    background-color: black;
+    color: lightgoldenrodyellow;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    padding: 20px;
 }
 
-h1 {
-    color:white;
+h1, h2, h3, h4, h5 {
+    color: white;
 }
 
-h2 {
-    color:white;
-}
-
-
-h3 {
-    color:white;
-}
-
-h4 {
-    color:white;
-}
-
-h5 {
-    color:white;
-}
 p {
-    color:white;
+    color: white;
 }
+
+.mc-skin {
+    width: 200px;   
+    height: auto; 
+    border-radius: 10px; 
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
