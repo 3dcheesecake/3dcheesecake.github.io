@@ -14,8 +14,8 @@ body {
 }
 
 button {
-    background-color: #ffb300; /* orange-yellow */
-    color: black; /* good contrast */
+    background-color: #ffb300;
+    color: black; 
     font-family: Arial, sans-serif;
     border: none;
     padding: 10px 20px;
@@ -24,6 +24,6 @@ button {
 }
 
 button:hover {
-    background-color: #ff9800; /* slightly darker on hover */
+    background-color: #ff9800; 
 }
 
