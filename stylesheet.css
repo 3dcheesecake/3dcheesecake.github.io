@@ -13,17 +13,16 @@ body {
     padding: 20px;
 }
 
-button {
+.button-link {
     background-color: #ffb300;
-    color: black; 
+    color: black;
     font-family: Arial, sans-serif;
-    border: none;
     padding: 10px 20px;
     border-radius: 6px;
-    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
 }
 
-button:hover {
-    background-color: #ff9800; 
+.button-link:hover {
+    background-color: #ff9800;
 }
-
