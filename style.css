@@ -18,3 +18,12 @@ p {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.cmdblock {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
