@@ -1,0 +1,33 @@
+body {
+    font-size: 18px;   /* Comfortable reading size */
+}
+
+h1 {
+    font-size: 36px;   /* Strong but not oversized */
+}
+
+h3 {
+    font-size: 24px;   /* Clear section heading */
+}
+
+button {
+    font-size: 16px;   /* Slightly smaller than body text */
+}
+
+body {
+    background-color: black;
+    color: white; 
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+.button-link {
+    background-color: #ffb300;
+    color: black;
+    font-family: Arial, sans-serif;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
+}
